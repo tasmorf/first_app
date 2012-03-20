@@ -4,4 +4,4 @@ This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
 by [Michael Hartl](http://michaelhartl.com/).
 The humble programmer is
-[Anastasios Morfopoulos](tas.morf@gmail.com)
+[Anastasios Morfopoulos](mailto:tas.morf@gmail.com)
